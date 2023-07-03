@@ -1,0 +1,1 @@
+# Lumpy-Cow-disease-prediction-model
